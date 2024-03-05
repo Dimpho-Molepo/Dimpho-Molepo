@@ -7,10 +7,14 @@ I am eager to dive into the world of web development and bring my ideas to life.
 * :telephone_receiver: 0833041301 <br>
 * :e-mail: dimphomolepo@gmail.com
 * :earth_americas:  https://dimpho-molepo-portfolio.netlify.app
-* 
 
 # 👾 Technologies 
-JavaScript GitHub HTML5 CSS3
+* JavaScript <p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+</p>
+* GitHub
+* HTML5
+* CSS3
 
 # Work Experience
 ### Field Worker
@@ -37,11 +41,41 @@ JavaScript GitHub HTML5 CSS3
 and fibre optics, Advance Physics I (Statistical Mechanics and Solid
 State & Quantum Mechanics)
 
-###
-****
+### National Diploma: Industrial Physics(Photonics)
+**Tshwane University of Technology / Pretoria / 2019** 
+* Majored in Photonics, Non-destructive Testing I & II, Metrology
+and Material Science, Electronics Principles and Technical Drawing
+I
 
-###
-****
+### Laser Safety Certificate
+**CSIR: National Laser Centre / Pretoria / 2019** 
 
-###
-****
+### Introduction to Metrology Certificate
+**NMISA Summer School for Metrology / Pretoria / 2018**
+
+### Matric Certificate
+**St Bede’s Secondary School / Makweng / 2014**
+* Matriculated with distinctions in Mathematics, Physical Sciences,
+and Life Sciences
+
+# Personal Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dimpho
+==============================================================================================================================
+
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+</p>
+
+
+
+
+
+# Personal Portfolio Site 
+**Description: A personal portfolio which contains the following sections:**
+* My Services
+* What I Do
+* My Work
+* My Socials Links
