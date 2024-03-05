@@ -62,10 +62,35 @@ I
 and Life Sciences
 
 # Personal Projects
+https://add-to-trolley.pages.dev/
 
 ![Screenshot 2024-02-13 085709](https://github.com/Dimpho-Molepo/Dimpho-Molepo/assets/136012291/681f4f3e-1761-4333-af2d-3bc857ec468a)
 
+**Tech Stack:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
+https://github.com/Dimpho-Molepo/DIMMOL405_BCL2401_GroupA_DimphoMolepo_SDF11.git
+
+![Screenshot 2024-03-05 095121](https://github.com/Dimpho-Molepo/Dimpho-Molepo/assets/136012291/56d1f084-702c-4a59-b053-e836cc0fbbe5)
+
+**Tech Stack:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
 
 
 # Personal Portfolio Site 
