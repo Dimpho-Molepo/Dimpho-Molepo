@@ -63,21 +63,21 @@ and Life Sciences
 
 # Personal Projects
 
-
+![Screenshot 2024-02-13 085709](https://github.com/Dimpho-Molepo/Dimpho-Molepo/assets/136012291/681f4f3e-1761-4333-af2d-3bc857ec468a)
 
 
 
 
 # Personal Portfolio Site 
-* [Personal Portfolio](https://dimpho-molepo-portfolio.netlify.app/)
+### [Personal Portfolio](https://dimpho-molepo-portfolio.netlify.app/) 
 **Description: A personal portfolio which contains the following sections:**
 * My Services
 * What I Do
 * My Work
 * My Socials Links
 
-* [GitHub Profile](https://github.com/dimpho-molepo)
-**Description: A personal portfolio which contains the following sections:**
+### [GitHub Profile](https://github.com/dimpho-molepo) 
+**Description: A GitHub Profile which contains the following sections:**
 * About Me
 * Technologies
 * Work Experience
